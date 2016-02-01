@@ -1,0 +1,34 @@
+.*~
+*~
+._*
+*.a
+.adobe
+*.beam
+.cache
+Crash Reports
+*DELETE?ME
+Downloads
+.dmrc
+.emacs.d
+*.fasl*
+.ICEauthority
+*.iso
+*junk
+*JUNK
+.local
+.macromedia
+.mozilla
+Music
+*.o
+*.out
+Public
+scratch
+.sudo_as_admin_successful
+.thumbnails
+tmp
+VirtualBox VMs
+*.vbox
+*.vmdk
+.Xauthority
+.xsession-errors
+.xsession-errors.old
